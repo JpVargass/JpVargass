@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... learn how to make applications, kotlin, java for now, I really like to read, travel and watch good movies
 - 🌱 I’m currently learning ... I am currently learning android studio
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... jpvargass@gmail.com
 
 <!---
 JpVargass/JpVargass is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
